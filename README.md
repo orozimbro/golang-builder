@@ -1,2 +1,2 @@
 # golang-builder
-Builder for golang project
+Builder for golang projects
